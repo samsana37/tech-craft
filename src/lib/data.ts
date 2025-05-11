@@ -68,15 +68,15 @@ export const students: Student[] = [
   // Engineering College Students
   {
     id: "1",
-    rollNo: "00123",
-    name: "Samuel Rodriguez",
+    rollNo: "1OX23CS116",
+    name: "Samuel",
     department: "CSE",
     section: "4C",
     secondPUC: "89%",
     thirdSem: "89%",
     achievements: ["Best Coding Project", "Hackathon Winner", "IBM Internship"],
     collegeId: "1",
-    profileImage: "/placeholder.svg?height=200&width=200",
+    profileImage: "/sam.jpeg",
   },
   {
     id: "2",
