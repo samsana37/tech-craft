@@ -54,14 +54,11 @@ export const departments: Department[] = [
 ]
 
 export const sections: Section[] = [
-  { id: "1", name: "A" },
-  { id: "2", name: "B" },
-  { id: "3", name: "C" },
-  { id: "4", name: "D" },
+
   { id: "5", name: "4A" },
   { id: "6", name: "4B" },
   { id: "7", name: "4C" },
-  { id: "8", name: "4D" },
+
 ]
 
 export const students: Student[] = [
@@ -80,10 +77,10 @@ export const students: Student[] = [
   },
   {
     id: "2",
-    rollNo: "00124",
-    name: "Emma Watson",
-    department: "ECE",
-    section: "A",
+    rollNo: "1OX23CS117",
+    name: "Vaishnavi",
+    department: "CSE",
+    section: "4C",
     secondPUC: "92%",
     thirdSem: "90%",
     achievements: ["Circuit Design Competition", "IEEE Paper Publication"],
